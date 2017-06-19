@@ -2,7 +2,7 @@
 #'
 #' Format for creating an American Physical Society (APS) Journal articles.
 #' Adapted from
-#' \href{https://journals.aps.org/revtex/}{https://journals.aps.org/revtex/}.
+#' \href{https://journals.aps.org/revtex/revtex-faq}{https://journals.aps.org/revtex/revtex-faq}.
 #'
 #' @inheritParams rmarkdown::pdf_document
 #' @param ... Arguments to \code{rmarkdown::pdf_document}
